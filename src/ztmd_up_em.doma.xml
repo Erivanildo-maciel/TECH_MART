@@ -3,14 +3,12 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DD01V>
-    <DOMNAME>ZTMD_ID</DOMNAME>
+    <DOMNAME>ZTMD_UP_EM</DOMNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
-    <DATATYPE>NUMC</DATATYPE>
-    <LENG>000010</LENG>
-    <OUTPUTLEN>000010</OUTPUTLEN>
-    <DDTEXT>ID</DDTEXT>
-    <ACTFLAG>I</ACTFLAG>
-    <RESERVEDOM>JB</RESERVEDOM>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000015</LENG>
+    <OUTPUTLEN>000015</OUTPUTLEN>
+    <DDTEXT>Atualizado em</DDTEXT>
    </DD01V>
   </asx:values>
  </asx:abap>
